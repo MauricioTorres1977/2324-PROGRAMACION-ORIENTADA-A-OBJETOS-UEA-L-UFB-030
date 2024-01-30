@@ -19,8 +19,13 @@ def mostrar_menu():
     ruta_base = os.path.dirname(__file__)
 
     opciones = {
-        '1': 'Unidad 1/1.2. Tecnicas de Programacion/1.2-1. Ejemplo Tecnicas de Programacion.py',
-        # Agrega aquí el resto de las rutas de los scripts
+        '1': 'Unidad 1/1.2. Técnicas de programación/1.2-1. Ejemplo Tecnicas de Programacion.PY',
+        '2': 'Unidad 1/2.1. Programación tradicional frente a POO/2.1-1. Ejemplo Programacion tradicional frente a POO.py',
+        '3': 'Unidad 1/2.2. Características de la POO/2.2-1. Ejemplo 1 Mundo Real sem4 - Retiro de cuenta bancaria.py',
+        '4': 'Unidad 1/2.2. Características de la POO/2.2-2.Ejemplo 2 Mundo Real Gestion tienda de herramientas.py',
+        '5': 'Unidad 2/1.1. Tipos de Datos e Identificadores/1.1-1. Tipos de datos e identificadores Semana 5.py',
+        '6': 'Unidad 2/1.2. Clases, Objetos, Herencia, Encapsulamiento y Polimorfismo/1.2-1. Ejemplo Clases, objetos, herencia.py',
+        '7': 'Unidad 2/2.1. Constructores y Destructores/2.1-1. Uso de Constructores y Destructores en Python.py',
     }
 
     while True:
