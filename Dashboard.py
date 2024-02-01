@@ -24,7 +24,7 @@ def mostrar_menu():
         '3': 'Unidad 1/2.2. Características de la POO/2.2-1. Ejemplo 1 Mundo Real sem4 - Retiro de cuenta bancaria.py',
         '4': 'Unidad 1/2.2. Características de la POO/2.2-2.Ejemplo 2 Mundo Real Gestion tienda de herramientas.py',
         '5': 'Unidad 2/1.1. Tipos de Datos e Identificadores/1.1-1. Tipos de datos e identificadores Semana 5.py',
-        '6': 'Unidad 2/1.2. Clases, Objetos, Herencia, Encapsulamiento y Polimorfismo/1.2-1. Ejemplo Clases, objetos, herencia.py',
+        '6': 'Unidad 2/1.2. Clases, Objetos, Herencia, Encapsulamiento y Polimorfismo/1.2-1. Ejemplo Clases.py',
         '7': 'Unidad 2/2.1. Constructores y Destructores/2.1-1. Uso de Constructores y Destructores en Python.py',
     }
 
